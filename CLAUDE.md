@@ -5,10 +5,10 @@
 ## ワークフロー
 
 ```
-/plan  → plan.md 作成（目標・タスク計画）
-/do    → plan.md を元に作業進行・壁打ち
-/check → 結果を result.md にまとめる
-/improve → 改善案を improve.md にまとめる（次サイクルへ）
+/01-plan    → plan.md 作成（目標・タスク計画）
+/02-do      → plan.md を元に作業進行・壁打ち
+/03-check   → 結果を result.md にまとめる
+/04-improve → 改善案を improve.md にまとめる（次サイクルへ）
 ```
 
 ## ファイルの役割
