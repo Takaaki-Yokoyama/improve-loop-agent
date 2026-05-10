@@ -1,0 +1,5 @@
+name: pdca-agent
+version: 1.0.0
+description: AIとの対話でPDCAサイクルを回すClaudeスラッシュコマンドセット（Plan/Do/Check/Improve）
+dependencies:
+  apm: []
